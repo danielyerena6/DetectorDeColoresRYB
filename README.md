@@ -37,7 +37,7 @@ permitir el paso a un establecimiento bajo el mismo siste
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/9cl8wLylQb8/0.jpg)](https://youtu.be/9cl8wLylQb8 "Demostracion de lo que muestra la Raspberry pi")
 
-La imagen de arriba es un vincolo directo a la demostracion en video del funcionanmiento del script y como se muestra en la raspberry pi.
+La imagen de arriba es un vinculo directo a la demostracion en video del funcionanmiento del script y como se muestra en la raspberry pi.
 
 El programa presenta los problemas tipicos de la vision por computadora donde influye la resolucion de la imagen, calidad del video y la iluminacion.
 
